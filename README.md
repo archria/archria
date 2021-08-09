@@ -3,18 +3,21 @@
 
 - 👀 I’m interested in ...
 
-C++ , JAVA, Python3
-Unreal
+C++ , JAVA, Python3, C#
+Unreal, 
 
 - 🌱 I’m currently learning ...
 
-C++ , Unreal, Unity,
+C++ , Unreal, Unity
+Unity = 2D Platformer Game
 
 
 - 💞️ I’m looking to collaborate on ...
 
 
 - 📫 How to reach me ...
+- 
+jonghyun95@kakao.com
 
 
 <!---
