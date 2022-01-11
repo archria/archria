@@ -16,8 +16,7 @@ Unity = 2D Platformer Game
 
 
 - 📫 How to reach me ...
-- 
-jonghyun95@kakao.com
+- jonghyun95@kakao.com
 
 
 <!---
